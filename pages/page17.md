@@ -10,7 +10,7 @@
 |Tributárias|(695)|(1.216)|(1.039)|
 |Reversão (Perda) líquida no valor de recuperação de ativos - Impairment|45|(10.763)|(16)|
 |Outras receitas (despesas), operacionais líquidas|(5.167)|(10.017)|(2.424)|
-| | | | |
+| |(16.217)|(32.655)|(13.295)|
 |Lucro antes do resultado financeiro, participações e impostos|44.484|39.971|60.016|
 |Receitas financeiras|2.736|2.915|2.419|
 |Despesas financeiras|(5.310)|(5.180)|(4.387)|

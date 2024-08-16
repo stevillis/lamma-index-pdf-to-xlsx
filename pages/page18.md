@@ -8,9 +8,6 @@
 |Impostos e contribuições|7.701|5.703|
 |Ativos classificados como mantidos para venda|1.672|1.624|
 |Outros ativos circulantes|8.797|7.603|
-
-|ATIVO - R$ milhões|31.03.2024|31.12.2023|
-|---|---|---|
 |Não Circulante|901.328|893.809|
 |Realizável a L. Prazo|129.858|129.735|
 |Contas a receber, líquidas|7.302|8.942|
@@ -19,9 +16,6 @@
 |Imposto de renda e contribuição social diferidos|5.829|4.672|
 |Impostos e contribuições|22.067|21.861|
 |Outros ativos realizáveis a longo prazo|11.217|11.209|
-
-|ATIVO - R$ milhões|31.03.2024|31.12.2023|
-|---|---|---|
 |Investimentos|6.168|6.574|
 |Imobilizado|750.483|742.774|
 |Intangível|14.819|14.726|
@@ -39,9 +33,6 @@
 |Benefícios a empregados|13.970|14.194|
 |Passivos associados a ativos mantidos para venda|2.613|2.621|
 |Outras contas e despesas a pagar|14.548|14.596|
-
-|PASSIVO - R$ milhões|31.03.2024|31.12.2023|
-|---|---|---|
 |Não Circulante|503.494|504.620|
 |Financiamentos|114.035|118.508|
 |Arrendamentos|133.122|128.773|
@@ -51,16 +42,11 @@
 |Provisão para processos judiciais e administrativos|16.834|16.000|
 |Provisão para desmantelamento de áreas|101.811|102.493|
 |Outras contas e despesas a pagar|9.642|9.159|
-
-|Patrimônio Líquido|31.03.2024|31.12.2023|
-|---|---|---|
+|Patrimônio Líquido|409.922|382.340|
 |Atribuível aos acionistas da Petrobras|407.636|380.441|
 |Capital subscrito e integralizado|205.432|205.432|
 |Reserva de capital, transações de capital e ações em tesouraria|(1.685)|(538)|
 |Reservas de lucros|182.873|159.171|
 |Outros resultados abrangentes|21.016|16.376|
 |Atribuível aos acionistas não controladores|2.286|1.899|
-
-|Total do passivo|31.03.2024|31.12.2023|
-|---|---|---|
-| |1.067.292|1.050.888|
+|Total do passivo|1.067.292|1.050.888|

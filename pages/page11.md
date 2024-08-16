@@ -15,3 +15,10 @@
 |Prazo médio da dívida (anos)|11,30|11,38|(0,7)|12,02|
 |Índice de Dívida Líquida/LTM EBITDA Ajustado|0,86|0,85|1,2|0,58|
 |Índice de Dívida Bruta/LTM EBITDA Ajustado|1,22|1,19|2,4|0,82|
+
+|R$ milhões|31.03.2024|31.12.2023|Δ %|31.03.2023|
+|---|---|---|---|---|
+|Dívida Financeira|138.587|139.431|(0,6)|151.575|
+|Arrendamentos|170.368|163.631|4,1|119.456|
+|Disponibilidades ajustadas|90.890|86.670|4,9|80.068|
+|Dívida Líquida|218.065|216.392|0,8|190.963|

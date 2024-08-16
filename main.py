@@ -2,9 +2,10 @@ from llama_parse import LlamaParse
 
 pages = LlamaParse(
     result_type="markdown",
-    parsing_instruction="""
-    This file contains images and tables. I only want the tables of each page.
-    Consider page 1 does not have any table.""",
+    parsing_instruction="""This file contains both images and tables. Please extract only the tables from each page.
+    Note that each page may contain one or more tables.
+    Keep in mind that page 1 does not contain any tables.
+""",
 ).load_data("./DesempenhoFinanceiroPetrobras1T24.pdf")
 
 

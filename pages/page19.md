@@ -32,3 +32,26 @@
 |Outros passivos|(395)|(968)|(514)|
 |Imposto de renda e contribuição social pagos|(12.980)|(11.757)|(22.235)|
 |Recursos líquidos gerados pelas atividades operacionais|46.481|57.658|53.759|
+|Fluxo de caixa das atividades de investimentos| | | |
+|Aquisições de ativos imobilizados e intangíveis|(14.049)|(17.794)|(12.592)|
+|Aquisição de participações societárias|(4)|(10)|(41)|
+|Recebimentos pela venda de ativos - Desinvestimentos|2.801|207|9.646|
+|Compensação financeira por Acordos de Coparticipação|1.951|−|2.032|
+|(Investimentos) resgates em títulos e valores mobiliários|(7.260)|1.556|(4.838)|
+|Dividendos recebidos|121|64|55|
+|Recursos líquidos gerados (utilizados) nas atividades de investimentos|(16.440)|(15.977)|(5.738)|
+|Fluxo de caixa das atividades de financiamentos| | | |
+|Participação de acionistas não controladores|463|502|(392)|
+|Financiamentos e operações de mútuo, líquidos:| | | |
+|Captações|8|4.459|263|
+|Amortizações de principal - financiamentos|(5.006)|(8.613)|(3.894)|
+|Amortizações de juros - financiamentos|(2.932)|(2.018)|(2.964)|
+|Amortizações de arrendamentos|(9.504)|(8.861)|(7.223)|
+|Dividendos pagos a acionistas da Petrobras|(17.182)|(21.724)|(21.803)|
+|Recompra de ações|(1.147)|(2.669)|−|
+|Dividendos pagos a acionistas não controladores|(282)|(4)|(248)|
+|Recursos líquidos gerados (utilizados) pelas atividades de financiamentos|(35.582)|(38.928)|(36.261)|
+|Efeito de variação cambial sobre caixa e equivalentes de caixa|1.617|(1.782)|(1.206)|
+|Aumento (redução) de caixa e equivalentes de caixa no período|(3.924)|971|10.554|
+|Caixa e equivalentes de caixa no início do período|61.613|60.642|41.723|
+|Caixa e equivalentes de caixa no fim do período|57.689|61.613|52.277|

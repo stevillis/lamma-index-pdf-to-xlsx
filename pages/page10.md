@@ -1,7 +1,7 @@
 |R$ milhões|1T24|4T23|1T23|
 |---|---|---|---|
 |Disponibilidades ajustadas no início do período|86.670|86.493|64.092|
-|Títulos públicos federais e time deposits acima de 3 meses no início do período*|(25.057)|(25.851)|(22.369)|
+|Títulos públicos federais e time deposits acima de 3 meses no início do período|(25.057)|(25.851)|(22.369)|
 |Caixa e equivalentes de caixa no início do período|61.613|60.642|41.723|
 |Recursos gerados pelas atividades operacionais|46.481|57.658|53.759|
 |Recursos gerados (utilizados) pelas atividades de investimento|(16.440)|(15.977)|(5.738)|
@@ -23,5 +23,5 @@
 |Dividendos pagos a acionistas não controladores|(282)|(4)|(248)|
 |Efeito de variação cambial sobre caixa e equivalentes de caixa|1.617|(1.782)|(1.206)|
 |Caixa e equivalentes de caixa no fim do período|57.689|61.613|52.277|
-|Títulos públicos federais e time deposits acima de 3 meses no fim do período*|33.201|25.057|27.791|
+|Títulos públicos federais e time deposits acima de 3 meses no fim do período|33.201|25.057|27.791|
 |Disponibilidades ajustadas no fim do período|90.890|86.670|80.068|

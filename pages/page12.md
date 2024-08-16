@@ -10,16 +10,33 @@
 |ROCE (Retorno sobre o Capital Empregado) (%)|14,3|14,5|18,5|(0,2)|(4,2)|
 |Brent médio (US$/bbl)|83,24|84,05|81,27|(1,0)|2,4|
 |Participações governamentais Brasil|14.765|16.140|14.461|(8,5)|2,1|
-|Royalties|9.268|9.628|8.362|(3,7)|10,8|
-|Participação Especial|5.451|6.466|6.037|(15,7)|(9,7)|
-|Retenção de área|46|46|62|−|(25,8)|
-|Lifting cost Brasil (US$/boe)|6,04|5,52|5,51|9,4|9,7|
-|Pré-Sal|3,99|3,78|3,71|5,5|7,5|
-|Pós-Sal Profundo e Ultra Profundo|15,18|12,12|11,45|25,2|32,6|
-|Terra e Águas Rasas|16,35|16,15|14,70|1,3|11,2|
-|Lifting cost + Afretamento|8,42|7,79|7,27|8,0|15,8|
-|Pré-Sal|6,28|6,13|5,61|2,4|11,9|
-|Pós-Sal Profundo e Ultra Profundo|18,47|14,37|12,94|28,5|42,7|
-|Terra e Águas Rasas|16,35|16,15|14,70|1,3|11,2|
-|Lifting cost + Participações governamentais|20,05|19,78|19,19|1,3|4,5|
-|Lifting cost + Participações governamentais + Afretamento|22,43|22,05|20,95|1,7|7,0|
+
+| |1T24|4T23|
+|---|---|---|
+|Royalties|9.268|9.628|
+|Participação Especial|5.451|6.466|
+|Retenção de área|46|46|
+
+| |1T24|4T23|
+|---|---|---|
+|Pré-Sal|3.99|3.78|
+|Pós-Sal Profundo e Ultra Profundo|15.18|12.12|
+|Terra e Águas Rasas|16.35|16.15|
+
+| |1T24|4T23|
+|---|---|---|
+|Pré-Sal|6.28|6.13|
+|Pós-Sal Profundo e Ultra Profundo|18.47|14.37|
+|Terra e Águas Rasas|16.35|16.15|
+
+| |1T24|4T23|
+|---|---|---|
+|Pré-Sal|6.28|6.13|
+|Pós-Sal Profundo e Ultra Profundo|18.47|14.37|
+|Terra e Águas Rasas|16.35|16.15|
+
+| |1T24|4T23|
+|---|---|---|
+|Pré-Sal|6.28|6.13|
+|Pós-Sal Profundo e Ultra Profundo|18.47|14.37|
+|Terra e Águas Rasas|16.35|16.15|
